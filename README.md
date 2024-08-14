@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/node-api-dummyjson-comments.git
+   git clone https://github.com/Perc4al/node-api-dummyjson-comments.git
    cd node-api-dummyjson-comments
    ```
 
