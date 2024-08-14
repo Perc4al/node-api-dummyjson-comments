@@ -13,8 +13,9 @@ This project is a Node.js API server that interacts with DummyJSON, an external 
 
 ## Requirements
 
-- **Node.js**: Version 14+ recommended
-- **npm**: Comes with Node.js
+- **Internet Connection**: Required for accessing the DummyJSON API at `https://dummyjson.com`. Ensure network settings allow outgoing requests to this URL.
+- **Node.js**: Version 14+ recommended for compatibility with application code.
+- **npm**: Comes with Node.js for dependency management and running scripts.
 
 ## Installation
 
