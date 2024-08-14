@@ -11,9 +11,7 @@ This project is a Node.js API server that interacts with DummyJSON, an external 
 ### Unit Testing
 - Using `mocha` for test execution and `chai` for assertions, ensuring application reliability.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
+## Requirements
 
 - **Node.js**: Version 14+ recommended
 - **npm**: Comes with Node.js
