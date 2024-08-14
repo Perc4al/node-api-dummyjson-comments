@@ -6,9 +6,9 @@ This project is a Node.js API server that interacts with DummyJSON, an external 
 
 ### Error Handling
 - Captures and responds to common errors such as Internal Server Errors to ensure graceful degradation and user feedback.
-## Validation
+### Validation
 - Using `express-validator` to ensure incoming data meets expected formats and types before processing.
-## Unit Testing
+### Unit Testing
 - Using `mocha` for test execution and `chai` for assertions, ensuring application reliability.
 
 ## Prerequisites
