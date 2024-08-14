@@ -1,0 +1,23 @@
+{
+  "name": "node-api-dummyjson-comments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha 'test/main.test.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^9.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-validator": "^7.2.0",
+    "node-fetch": "^2.6.7"
+  }
+}
