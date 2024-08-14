@@ -2,7 +2,6 @@
 # Node.js API Server with DummyJSON Comments
 This project is a Node.js API server that interacts with DummyJSON, an external API, to fetch and post comments.
 
----
 ## Features
 
 ### Error Handling
@@ -12,7 +11,6 @@ This project is a Node.js API server that interacts with DummyJSON, an external 
 ## Unit Testing
 - Using `mocha` for test execution and `chai` for assertions, ensuring application reliability.
 
----
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -20,7 +18,6 @@ Before you begin, ensure you have met the following requirements:
 - **Node.js**: Version 14+ recommended
 - **npm**: Comes with Node.js
 
----
 ## Installation
 
 1. **Clone the repository:**
@@ -36,7 +33,6 @@ Before you begin, ensure you have met the following requirements:
    npm install
    ```
 
----
 ## Running the Server
 
 To run the API server, use the following command:
@@ -47,7 +43,6 @@ npm start
 
 The server will listen on the default port `3000`, which can be configured via environment variables.
 
----
 ## Testing
 
 To execute the test suite, run:
